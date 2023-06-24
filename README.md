@@ -1,1 +1,1 @@
-# Insurance-Coat-Predictor
+# Insurance-Cost-Predictor
