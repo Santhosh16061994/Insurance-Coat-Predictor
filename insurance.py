@@ -11,7 +11,7 @@ import pickle
 import streamlit as st
 
 # loading the saved model
-loaded_model = pickle.load(open('C:/Users/Santhosh T N/OneDrive/Desktop/Deploy/Insurance/model_pickle_test.pkl', 'rb'))
+loaded_model = pickle.load(open('model_pickle_test.pkl', 'rb'))
 
 
 # Create the Streamlit app
