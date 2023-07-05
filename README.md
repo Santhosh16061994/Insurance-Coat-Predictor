@@ -1,5 +1,3 @@
-Certainly! Here's an example of a GitHub README file description summary for the "Insurance Cost Prediction" project:
-
 # Insurance Cost Prediction
 
 This project aims to develop a machine learning model for predicting insurance costs based on various factors such as age, gender, BMI, smoking habits, and region. By leveraging historical insurance data and machine learning algorithms, we strive to provide accurate cost estimates to insurance companies and individuals alike.
