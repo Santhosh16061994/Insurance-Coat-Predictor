@@ -35,6 +35,8 @@ We experimented with various machine learning algorithms, including linear regre
 
 To make our insurance cost prediction model accessible and user-friendly, we developed a web application using Streamlit, a Python library for creating interactive web interfaces. The web application allows users to input their relevant information, such as age, gender, BMI, smoking habits, and region, and obtain an estimated insurance cost. The application provides clear and interpretable results, empowering users to make informed decisions regarding their insurance needs.
 
+Web app link : https://icpicp.streamlit.app/
+
 ## Dependencies
 
 - Python 3.7 or higher
@@ -58,4 +60,4 @@ To make our insurance cost prediction model accessible and user-friendly, we dev
 
 We welcome contributions to enhance the project and expand its functionality. If you encounter any issues or have suggestions for improvements, please submit a pull request or open an issue in the GitHub repository.
 
-Web app link : https://icpicp.streamlit.app/
+
